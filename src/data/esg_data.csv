@@ -1,0 +1,33 @@
+company,industry,region,year,environmental_score,social_score,governance_score,esg_score,carbon_emissions,employee_satisfaction,board_diversity,controversies
+Alpha Corp,Technology,North America,2022,74,78,70,75,1300,83,36,0
+Alpha Corp,Technology,North America,2023,76,80,72,77,1250,85,38,1
+Alpha Corp,Technology,North America,2024,78,82,74,78,1200,88,40,0
+Beta Inc,Finance,Europe,2022,59,65,62,62,900,70,27,1
+Beta Inc,Finance,Europe,2023,60,66,63,63,850,73,28,2
+Beta Inc,Finance,Europe,2024,62,68,65,65,800,75,30,1
+Gamma Ltd,Healthcare,Asia,2022,85,88,82,86,1000,90,48,0
+Gamma Ltd,Healthcare,Asia,2023,87,90,84,87,975,91,49,0
+Gamma Ltd,Healthcare,Asia,2024,88,91,85,88,950,92,50,0
+Delta LLC,Manufacturing,North America,2022,55,52,60,56,2100,58,18,2
+Delta LLC,Manufacturing,North America,2023,57,53,62,57,2050,59,19,2
+Delta LLC,Manufacturing,North America,2024,58,54,63,58,2000,60,20,2
+Epsilon PLC,Energy,Europe,2022,89,84,94,90,3100,78,58,1
+Epsilon PLC,Energy,Europe,2023,91,86,96,91,3050,79,59,1
+Epsilon PLC,Energy,Europe,2024,92,87,97,92,3000,80,60,1
+Zeta AG,Technology,Europe,2022,77,82,75,78,1150,88,43,0
+Zeta AG,Technology,Europe,2023,79,84,77,80,1125,89,44,0
+Zeta AG,Technology,Europe,2024,80,85,78,81,1100,90,45,0
+Eta SA,Finance,Asia,2022,62,67,65,66,750,76,33,1
+Eta SA,Finance,Asia,2023,64,69,67,67,725,77,34,1
+Eta SA,Finance,Asia,2024,65,70,68,68,700,78,35,1
+Theta Pty,Healthcare,Australia,2022,87,90,85,88,950,93,53,0
+Theta Pty,Healthcare,Australia,2023,89,92,87,89,925,94,54,0
+Theta Pty,Healthcare,Australia,2024,90,93,88,90,900,95,55,0
+Iota BV,Manufacturing,Europe,2022,57,55,63,59,2150,63,23,2
+Iota BV,Manufacturing,Europe,2023,59,57,65,60,2125,64,24,2
+Iota BV,Manufacturing,Europe,2024,60,58,66,61,2100,65,25,2
+Kappa Ltd,Energy,North America,2022,92,86,96,93,3300,83,63,1
+Kappa Ltd,Energy,North America,2023,94,88,98,94,3250,84,64,1
+Kappa Ltd,Energy,North America,2024,95,89,99,94,3200,85,65,1
+
+

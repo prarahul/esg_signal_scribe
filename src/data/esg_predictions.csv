@@ -1,0 +1,5 @@
+environmental_score,social_score,governance_score,log_carbon_emissions,employee_satisfaction,board_diversity,controversies,actual_esg_score,predicted_esg_score
+80.0,85.0,78.0,7.00397413672268,90.0,45.0,0.0,81.0,87.16
+78.0,82.0,74.0,7.0909098220799835,88.0,40.0,0.0,78.0,81.29
+95.0,89.0,99.0,8.071218539969863,85.0,65.0,1.0,94.0,88.47
+76.8,77.7,78.3,7.3752557780097545,80.8,42.5,0.8,77.5,79.01
