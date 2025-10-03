@@ -15,7 +15,7 @@ from datetime import datetime
 
 # Page configuration
 st.set_page_config(
-    page_title="ESG Signal Scribe 🌱",
+    page_title="ESG Signal Scribe 🌱 - Making ESG investing smarter with AI-powered insights",
     page_icon="🌱",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -164,7 +164,7 @@ def predict_esg_score(model, features, input_data):
 def main():
     # Header
     st.markdown('<h1 class="main-header">🌱 ESG Signal Scribe</h1>', unsafe_allow_html=True)
-    st.markdown('<p style="text-align: center; font-size: 1.2rem; color: #666;">AI-Powered ESG Risk Scoring Platform</p>', unsafe_allow_html=True)
+    st.markdown('<p style="text-align: center; font-size: 1.2rem; color: #666; font-weight: 500;">Making ESG investing smarter with AI-powered insights</p>', unsafe_allow_html=True)
     
     # Load data and train model
     if st.session_state.data is None:
